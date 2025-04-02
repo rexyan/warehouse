@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.2">
+  <diagram name="第 1 页" id="MzKrfu8DroMHTg_fGeHN">
+    <mxGraphModel dx="2039" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PbabWw5JQ442Ly3VKc6l-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7iybtXCXnXKBiUHEfTq8-1" target="7iybtXCXnXKBiUHEfTq8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbabWw5JQ442Ly3VKc6l-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7iybtXCXnXKBiUHEfTq8-1" target="7iybtXCXnXKBiUHEfTq8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbabWw5JQ442Ly3VKc6l-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7iybtXCXnXKBiUHEfTq8-1" target="7iybtXCXnXKBiUHEfTq8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbabWw5JQ442Ly3VKc6l-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7iybtXCXnXKBiUHEfTq8-1" target="7iybtXCXnXKBiUHEfTq8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-1" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;ToolCallAgent&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="303.5" y="280" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-2" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;MCPAgent&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="280" y="465" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbabWw5JQ442Ly3VKc6l-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7iybtXCXnXKBiUHEfTq8-3" target="7iybtXCXnXKBiUHEfTq8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-3" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;ReActAgent&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="303.5" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbabWw5JQ442Ly3VKc6l-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7iybtXCXnXKBiUHEfTq8-4" target="7iybtXCXnXKBiUHEfTq8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbabWw5JQ442Ly3VKc6l-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7iybtXCXnXKBiUHEfTq8-4" target="7iybtXCXnXKBiUHEfTq8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-4" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;BaseAgent&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="385" y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbabWw5JQ442Ly3VKc6l-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="7iybtXCXnXKBiUHEfTq8-5" target="7iybtXCXnXKBiUHEfTq8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-5" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;BrowserAgent&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="530" y="465" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-6" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;CoTAgent&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="480" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-7" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;Manus&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="547.5" y="640" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-8" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;PlanningAgent&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="17.5" y="465" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-9" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;SWEAgent&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="880" y="465" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-11" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;run&lt;/font&gt;：执行Agent 的循环体，执行每一个 setp&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;step&lt;/font&gt;: 抽象方法&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-12" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;step&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;：执行 think 和 act 方法&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;think&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;: 抽象方法&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;act&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;&amp;nbsp;抽象方法&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-14" value="&lt;span style=&quot;text-align: left; color: rgb(51, 0, 26);&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;step&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 0, 26); text-align: left;&quot;&gt;：&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-16" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;think&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;: 具体的实现，其中调用了大模型，判断是否有工具调用&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;act &lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;：具体的实现，其中拿到了大模型返回的工具列表，然后一个个去执行&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;execute_tool&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;: 调用工具的具体方法&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="255" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-17" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;think&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;: 具体的实现，调用了父类的 think 方法，也实现了自己的逻辑&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;act&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;：&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 0, 26); background-color: transparent;&quot;&gt;调用了父类的 think 方法，也实现了自己的逻辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;create_initial_tool&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;run&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 0, 26); background-color: transparent;&quot;&gt;调用了 BaseAgent 里面的 run，也实现了自己的逻辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;get_plan&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;:&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="520" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-18" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;initialize&lt;/font&gt;&lt;font color=&quot;#33001a&quot;&gt;: 初始化 MCP 的连接&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;think&lt;/font&gt;&lt;font color=&quot;#33001a&quot;&gt;：&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 0, 26); background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 0, 26); background-color: transparent;&quot;&gt;具体的实现，调用了父类的 think 方法，也实现了自己的逻辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(51, 0, 26);&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;cleanup&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 0, 26); background-color: transparent;&quot;&gt;：清理 MCP 连接&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(51, 0, 26);&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;run&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 0, 26); background-color: transparent;&quot;&gt;：调用了 BaseAgent 里面的 run，也实现了自己的逻辑&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="235" y="520" width="225" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-20" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;think&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;: 具体的实现，调用了父类的 think 方法，也实现了自己的逻辑&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 215, 237));&quot;&gt;get_browser_state&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(51, 0, 26), rgb(255, 215, 237)); background-color: transparent;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="520" width="215" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7iybtXCXnXKBiUHEfTq8-22" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;think&lt;/font&gt;&lt;font style=&quot;color: rgb(51, 0, 26);&quot;&gt;: 具体的实现，调用了父类的 think 方法，也实现了自己的逻辑&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="690" width="215" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

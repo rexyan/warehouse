@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.0">
+  <diagram name="第 1 页" id="cqzdfOQLj-s810zQL15L">
+    <mxGraphModel dx="1215" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="cLwAeeBMk5zKM-F90YfM-1" target="cLwAeeBMk5zKM-F90YfM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-1" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;BaseFlow&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-2" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;span&gt;PlanningFlow&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-3" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;primary_agent&lt;/font&gt;：&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;get_agent&lt;/font&gt;:&amp;nbsp;&lt;/div&gt;&lt;div&gt;add_agent:&lt;/div&gt;&lt;div&gt;execute: 抽象方法&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="87.5" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_execute_step&lt;/span&gt;:&lt;/div&gt;&lt;div&gt;_create_initial_plan&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;_get_current_step_info&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;_mark_step_completed&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;_get_plan_text&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;_generate_plan_text_from_storage&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;_finalize_plan&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;execute:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;get_executor:&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="263.75" width="140" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="cLwAeeBMk5zKM-F90YfM-6" target="cLwAeeBMk5zKM-F90YfM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-6" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;BaseTool&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-7" value="&lt;div style=&quot;color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;霞鹜文楷等宽 GB 屏幕阅读版&amp;quot;, monospace; font-size: 13.5pt;&quot;&gt;PlanningTool&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-9" value="&lt;font color=&quot;#ff0000&quot;&gt;execute: &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;抽象方法&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="87.5" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cLwAeeBMk5zKM-F90YfM-10" value="&lt;div&gt;create:&amp;nbsp;&lt;/div&gt;&lt;div&gt;update:&lt;/div&gt;&lt;div&gt;list:&lt;/div&gt;&lt;div&gt;get:&lt;/div&gt;&lt;div&gt;set_active:&lt;/div&gt;&lt;div&gt;mark_step:&lt;/div&gt;&lt;div&gt;delete:&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="250" width="140" height="152.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
